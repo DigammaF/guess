@@ -13,7 +13,6 @@ from rich.panel import Panel
 from rich.table import Table
 
 MAX_SECRET_NUMBER: int = 100
-CONSOLE = Console()
 
 class Event: ...
 
